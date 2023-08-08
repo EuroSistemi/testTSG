@@ -14,8 +14,8 @@
       "aggiornamento": false
     },
     {
-      "numero_seriale": "45678901",
-      "aggiornamento": false
+      "numero_seriale": "2C7486A7DBCC",
+      "aggiornamento": true
     },
     {
       "numero_seriale": "56789012",
