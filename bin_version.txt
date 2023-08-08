@@ -15,7 +15,7 @@
     },
     {
       "numero_seriale": "2C7486A7DBCC",
-      "aggiornamento": true
+      "aggiornamento": false
     },
     {
       "numero_seriale": "56789012",
@@ -23,7 +23,7 @@
     }
   ],
   "aggiornamento_per_tutte": {
-    "aggiornamento": false
+    "aggiornamento": true
   }
 }
 
