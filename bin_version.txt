@@ -2,7 +2,7 @@
   "versione_software": "0.9.8",
   "schede_da_aggiornare": [
     {
-      "numero_seriale": "2C7486A7DBCC",
+      "numero_seriale": "87654341",
       "aggiornamento": false
     },
     {
