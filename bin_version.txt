@@ -3,7 +3,7 @@
   "schede_da_aggiornare": [
     {
       "numero_seriale": "2C7486A7DBCC",
-      "aggiornamento": true
+      "aggiornamento": false
     },
     {
       "numero_seriale": "87654321",
