@@ -1,2 +1,29 @@
-0.9.7
+{
+  "versione_software": "0.9.7",
+  "schede_da_aggiornare": [
+    {
+      "numero_seriale": "12345678",
+      "aggiornamento": true
+    },
+    {
+      "numero_seriale": "87654321",
+      "aggiornamento": false
+    },
+    {
+      "numero_seriale": "98765432",
+      "aggiornamento": true
+    },
+    {
+      "numero_seriale": "45678901",
+      "aggiornamento": false
+    },
+    {
+      "numero_seriale": "56789012",
+      "aggiornamento": true
+    }
+  ],
+  "aggiornamento_per_tutte": {
+    "aggiornamento": true
+  }
+}
 
