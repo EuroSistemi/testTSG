@@ -1,5 +1,3 @@
-0.9.9
-
 {
   "versione_software": "0.9.8",
   "schede_da_aggiornare": [
