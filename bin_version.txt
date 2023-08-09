@@ -1,5 +1,5 @@
 {
-  "versione_software": "0.9.7",
+  "versione_software": "0.9.5",
   "schede_da_aggiornare": [
     {
       "numero_seriale": "87654341",
