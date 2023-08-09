@@ -15,7 +15,7 @@
     },
     {
       "numero_seriale": "C82A9A1CB2B0",
-      "aggiornamento": true
+      "aggiornamento": false
     },
     {
       "numero_seriale": "56789012",
